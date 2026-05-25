@@ -1,0 +1,6 @@
+{
+  "name": "Conversa Direta",
+  "description": "Inicie conversas no WhatsApp e adicione contatos rapidamente sem precisar salvar o número primeiro na agenda.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
